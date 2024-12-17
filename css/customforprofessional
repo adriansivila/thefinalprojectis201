@@ -1,0 +1,7 @@
+.contentforprofessional{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: gray;
+    text-align: border left;
+}
+

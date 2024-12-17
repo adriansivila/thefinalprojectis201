@@ -1,0 +1,86 @@
+.home{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: darkblue;
+}
+.content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: white;
+    text-align: border left;
+}
+.tableau{
+    padding:5px;
+    border: black 3px;
+    margin:10px;
+    height: 150;
+    width: 305;
+    align-items: center;
+}
+.game{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    color: black;
+}
+
+.backhome{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: darkblue;
+    text-align: center;
+}
+
+.carsimage{
+    width: 500px;
+    height: 305px;
+    border:1px solid black;
+    background-color: lightgrey;
+    margin:10px;
+    padding: 5px;
+    align-items: center;
+}
+
+.links{
+    width:550; 
+    height:305;
+    background-color: lightblue;
+    border: 1px solid black;
+    margin: 10px auto; /* Center horizontally */
+    padding: 5px;
+    align-items: center;
+      }
+
+body{
+background-color: blanchedalmond;
+}
+
+.allLinks{
+    
+    border: 5px black;
+    margin: 10px auto; 
+    padding: 5px;
+    background-color: lightgray;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+.endScreen{
+    border: 5px black;
+    margin: 10px auto; 
+    padding: 5px;
+    background-color: lightyellow;
+    align-items: center;
+    text-align: center;
+}
+
+.carDiv{
+    border: 5px black;
+    margin: 10px auto; 
+    padding: 5px;
+    background-color: lightgray;
+    align-items: center;
+    text-align: center;
+}
